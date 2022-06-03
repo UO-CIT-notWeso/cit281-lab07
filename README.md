@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to my Lab 7 page.
 
-You can use the [editor on GitHub](https://github.com/UO-CIT-notWeso/cit281-lab07/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Lab 7 consisted of:
+- Creating a GitHub organization for the CIT Minor
+- Creating my first GitHub repository
+- Cloneing my GitHub repository to your local system
+- Creating a lab JavaScript file, and initializing folder as a Node.js folder
+- Updating and commiting my lab JavaScript file to practice with error handling
+- Pushing my changes to GitHub
+- (deliverable for project 6)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UO-CIT-notWeso/cit281-lab07/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## What I learned:
+- I learned how to create my GitHub organization
+- I learned how to create my first GitHub repository
+- I learned how to update and commit my lab Javascript file
+- I learned how to push my changes to GitHub
